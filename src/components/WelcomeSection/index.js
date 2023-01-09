@@ -84,17 +84,8 @@ function WelcomeSection({ location, guestName, isInvitation, isAnonymGuest, code
                     </a>
                   </div>
               </div>
-              <br></br>
+              <br></br><br></br>
               {renderGuestSection()}
-              {isInvitation && (
-                <div className="row" css={styButtonWrapper}>
-                  <div className="col-md-3">
-                    <Link to={`/e-ticket?${codeLink}`}>
-                      <button className="btn btn-default btn-block">Lihat e-Ticket</button>
-                    </Link>
-                  </div>
-                </div>
-              )}
             </div>
           </div>
           <br></br>

@@ -1,8 +1,8 @@
-import default_image from './assets/male.png';
-import selena from './assets/w-selena.jpg';
-import luffy from './assets/w-luffy.jpg';
-import jilan from './assets/w-jilan.jpeg';
-import dian from './assets/w-dian.jpg';
+import default_image from '@assets/images/arjun.jpg';
+import selena from '@assets/images/manomy.jpeg';
+import luffy from '@assets/images/meghna.jpg';
+import jilan from '@assets/images/sagar.jpg';
+import dian from '@assets/images/abhi.jpg';
 
 export const wishlist = [
   {

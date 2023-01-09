@@ -200,13 +200,6 @@ export const styWrapper = css`
     margin-bottom: 8px;
   }
 
-  .to-dearest-name {
-    border-bottom: 1px solid;
-    padding-bottom: 12px;
-    max-width: 250px;
-    margin: auto auto 30px auto;
-  }
-
   .margin__bottom {
     margin-bottom: 3em !important;
   }
