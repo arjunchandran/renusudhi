@@ -1,4 +1,4 @@
-import default_image from '@assets/images/arjun.jpg';
+import default_image from '@assets/images/arjunNew.jpg';
 import selena from '@assets/images/manomy.jpeg';
 import luffy from '@assets/images/meghna.jpg';
 import jilan from '@assets/images/sagar.jpg';
