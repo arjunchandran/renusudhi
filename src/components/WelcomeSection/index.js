@@ -1,6 +1,5 @@
 import React, { Fragment, useState } from 'react';
 import { object, string, bool, func } from 'prop-types';
-import { Link } from 'gatsby';
 
 import WeddingImg from '@assets/images/wedding-logo.png';
 import { GOOGLE_CALENDAR_LINK } from '@/constants';

@@ -6,7 +6,6 @@ import '@assets/css/icomoon.css';
 import '@assets/css/bootstrap.css';
 import '@assets/css/style.css';
 
-const META_DESCRIPTION = `Renu weds Sudhi`;
 
 function MainLayout({ children }) {
   return (

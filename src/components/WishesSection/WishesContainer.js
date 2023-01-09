@@ -3,7 +3,6 @@ import React, { useState, useEffect, useCallback } from 'react';
 import WishesItem from './WishesItem';
 import { wishlist } from './wishlist-data';
 import { styButtonWrapper } from './styles';
-import { Link } from 'gatsby';
 import { string } from 'prop-types';
 
 const INTERVAL_SLIDE = 35000;
